@@ -1,0 +1,1 @@
+$("#FooBar").click((function(){this.acceptenceCriteria()&&alert("Disabled: "+$(this).is("[disabled=disabled]"))}));
